@@ -1,3 +1,8 @@
+FOR RTX 3090 GPU - Yusak
+========================
+
+use torch that support cuda, like pip install torch==2.3.0+cu121 -f https://download.pytorch.org/whl/cu115/torch_stable.html
+
 Fast Transformers
 =================
 
